@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\projects\design-patterns-csharp\prototype\obj\Debug\net7.0\prototype.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\projects\design-patterns-csharp\prototype\obj\Debug\net7.0\prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\projects\design-patterns-csharp\prototype\obj\Debug\net7.0\prototype.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\projects\design-patterns-csharp\prototype\obj\Debug\net7.0\prototype.AssemblyInfo.cs
+C:\Users\Dell\Desktop\projects\design-patterns-csharp\prototype\obj\Debug\net7.0\prototype.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\projects\design-patterns-csharp\prototype\bin\Debug\net7.0\prototype.exe
+C:\Users\Dell\Desktop\projects\design-patterns-csharp\prototype\bin\Debug\net7.0\prototype.deps.json
+C:\Users\Dell\Desktop\projects\design-patterns-csharp\prototype\bin\Debug\net7.0\prototype.runtimeconfig.json
+C:\Users\Dell\Desktop\projects\design-patterns-csharp\prototype\bin\Debug\net7.0\prototype.dll
+C:\Users\Dell\Desktop\projects\design-patterns-csharp\prototype\bin\Debug\net7.0\prototype.pdb
+C:\Users\Dell\Desktop\projects\design-patterns-csharp\prototype\obj\Debug\net7.0\prototype.dll
+C:\Users\Dell\Desktop\projects\design-patterns-csharp\prototype\obj\Debug\net7.0\refint\prototype.dll
+C:\Users\Dell\Desktop\projects\design-patterns-csharp\prototype\obj\Debug\net7.0\prototype.pdb
+C:\Users\Dell\Desktop\projects\design-patterns-csharp\prototype\obj\Debug\net7.0\prototype.genruntimeconfig.cache
+C:\Users\Dell\Desktop\projects\design-patterns-csharp\prototype\obj\Debug\net7.0\ref\prototype.dll
